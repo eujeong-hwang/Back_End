@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/88166362/144694893-52789e67-866c-4ead-b9a0-f63069c7dfbf.png" width="772" height="400">
 
-[산책할개 사이트](https://togaether.shop/)  
+[산책할개 사이트](https://togaether.shop/) [운영 종료]
 [시연 영상](https://www.youtube.com/watch?v=dKcawThqUME&t=16s)  
 
 <br>
