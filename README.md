@@ -1,13 +1,11 @@
 # 🐶 Friendog
 
-# Friendog is a web service that matches you and your dog with a friend to take a daily walk together. 
+## Friendog is a web service that matches you and your dog 
+## a friend to take a daily walk together. 
 
 <img src="https://user-images.githubusercontent.com/88166362/144694893-52789e67-866c-4ead-b9a0-f63069c7dfbf.png" width="772" height="400">
 
-[Website of Friendog](https://togaether.shop/) [Service Terminated]
-
-</br>
-
+[Website of Friendog](https://togaether.shop/) [Service Terminated] </br>
 [Video of Friendog](https://www.youtube.com/watch?v=lQUo4EbUrQU)  
 
 <br>
@@ -24,12 +22,12 @@ October 25, 2021 - December 3, 2021 (6 weeks)
 
 <br>
 
-# :sparkles: Architecture of the project
+# :sparkles: Architecture of the Project
 <img width="772" alt="KakaoTalk_Photo_2021-12-04-12-08-16" src="https://user-images.githubusercontent.com/88166362/144694918-ab86d1e8-c61d-461a-92ca-e77a10ffc9cf.png">
 
 <br>
 
-# :hammer_and_wrench: Technologies used
+# :hammer_and_wrench: Technologies Used
 Technologies|Description
 :---|:---:
 Node.js | JS Runtime
@@ -39,9 +37,9 @@ Nginx | Proxy Server
 
 <br>
 
-# : : Library used
+# : : Library Used
 |Library|Description|
----|:---
+---|:---:
 <img src='https://img.shields.io/badge/express-1.7.9-lightgrey'> | Web Framework
 <img src='https://img.shields.io/badge/bcrypt-5.0.1-lightgrey'> | Password-hashing function
 <img src='https://img.shields.io/badge/cors-2.8.5-lightgrey'> | Cross-Origin Resource Sharing
@@ -92,7 +90,7 @@ Nginx | Proxy Server
 
 <br>
 
-# :writing_hand: 개발 일지
+# :writing_hand: Documentation
 - [Team Notion](https://togaether.shop/)
 - [Front-end github](https://github.com/O-K-O-K-O-K/Front-end)
 - [Back-end github](https://github.com/O-K-O-K-O-K/Back_End)
