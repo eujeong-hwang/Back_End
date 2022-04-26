@@ -1,7 +1,6 @@
 # 🐶 Friendog
 
-## Friendog is a web service that matches you and your dog 
-## a friend to take a daily walk together. 
+### Friendog is a web service that matches you and your dog a friend to take a daily walk together. 
 
 <img src="https://user-images.githubusercontent.com/88166362/144694893-52789e67-866c-4ead-b9a0-f63069c7dfbf.png" width="772" height="400">
 
@@ -11,8 +10,8 @@
 <br>
 
 # :family_man_woman_boy_boy: Team Members
-- Front-end : [Dawon Kim](https://github.com/DawonEllaKim), [Hyojin Kim](https://github.com/hyojin-k),[Suchang Lee](https://github.com/eternalclash) 
-- Back-end : [Eu Jeong Hwang](https://github.com/eujeong-hwang), [Jyung-gyu Tak](https://github.com/tak-codes),[SunHee Heo](https://github.com/SunHeeHeo) 
+- Front-end : [Dawon Kim](https://github.com/DawonEllaKim), [Hyojin Kim](https://github.com/hyojin-k), [Suchang Lee](https://github.com/eternalclash) 
+- Back-end : [Eu Jeong Hwang](https://github.com/eujeong-hwang), [Jyung-gyu Tak](https://github.com/tak-codes), [SunHee Heo](https://github.com/SunHeeHeo) 
 - Designer : Yeonsu Seo, Sungwon Lee 
 
 <br>
