@@ -1,6 +1,8 @@
 # 🐶 Friendog
 
+### Have you ever felt lonely when you were walking your dog alone?
 ### Friendog is a web service that matches you and your dog a friend to take a daily walk together. 
+### Make a friend using Friendog, and share everyday moments with your new walking buddies!
 
 <img src="https://user-images.githubusercontent.com/88166362/144694893-52789e67-866c-4ead-b9a0-f63069c7dfbf.png" width="772" height="400">
 
