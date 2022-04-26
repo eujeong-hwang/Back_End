@@ -1,8 +1,8 @@
 # 🐶 Friendog
 
-### Have you ever felt lonely when you were walking your dog alone?
+### Have you ever felt lonely when you were walking your dog?
 ### Friendog is a web service that matches you and your dog a friend to take a daily walk together. 
-### Make a friend using Friendog, and share everyday moments with your new walking buddies!
+### Make a friend using Friendog, and share everyday moments with your new walking buddies !
 
 <img src="https://user-images.githubusercontent.com/88166362/144694893-52789e67-866c-4ead-b9a0-f63069c7dfbf.png" width="772" height="400">
 
@@ -51,39 +51,45 @@ Nginx | Proxy Server
 <img src='https://img.shields.io/badge/sharp-0.29.3-lightgrey'> | Process Image
 <img src='https://img.shields.io/badge/multer-1.4.3-lightgrey'> | File Upload
 
-- 로그인 / 회원가입 / 강아지 정보 등록 
-  - 로그인 할 시 JWT 토큰을 발급
-  - 회원가입 시 비밀번호의 보안을 위해 bcrypt 모듈 사용
 
-- 메인페이지
+# :round_pushpin: Main Function
 
-  - 현재 날씨 조회
-  - 최신 개스타그램 조회
-  - 카테고리별 산책 목록 조회
+- LogIn / Sign Up / Add Dog Information
 
-- 산책등록
+  - Issued Json Web Token whenever the users Logged In
+  - Used bcrypt module to safely store the passwords when users Signed Up.
 
-  - 카카오맵 api를 사용해 제공하는 산책로 선택
-  - 날짜, 시간 선택
+- Main Page
 
-- 산책가자 (산책목록 조회 페이지)
+  - View current weather
+  - View recent Dogstagram 
+  - View list of available walking appointments by each cateogry
 
-  - 장소별 산책목록 확인
-  - 원하는 산책 신청 및 쪽지하기 기능
+- Post walking appointments
 
-- 개스타그램 (강아지 일상 공유 페이지)
+  - Used Kakao Map API to make the user pick the trails they would like to walk their dogs to.
+  - Users can pick the date and the time.
 
-  - 최신순, 좋아요 순 정렬
-  - 일상 공유하는 페이지 등록
-  - 좋아요, 댓글, 쪽지 보내기 기능
+- View Full List of walking appointments Page
 
-- 마이페이지
+  - View walking appointments by its location
+  - Request to go on a walk to the user
+  - Send a message to the user of the post
+
+- Dogstagram (Page where you can share your daily moments with your dog)
+
+  - Sorted by Dogstagram's recent post
+  - Sorted by Likes of the Dogstagram post
+  - Post and share pictures of the daily moments with the user's dog
+  - Like, Comment, Message function
+
+- My Page
 
   - 유저가 등록한 개스타그램, 산책목록 조회
   - 유저 데이터, 강아지 데이터 조회 및 수정
   - 다른 유저 페이지 방문 가능
 
-- 쪽지
+- Message
 
   - 받은 쪽지, 산책 신청 알람 기능
   - 받은 산책 신청 수락/거절
