@@ -51,10 +51,11 @@ Nginx | Proxy Server
 <img src='https://img.shields.io/badge/sharp-0.29.3-lightgrey'> | Process Image
 <img src='https://img.shields.io/badge/multer-1.4.3-lightgrey'> | File Upload
 
+<br>
 
 # :round_pushpin: Main Function
 
-- LogIn / Sign Up / Add Dog Information
+- LogIn / Sign Up / Dog Information
 
   - Issued Json Web Token whenever the users Logged In
   - Used bcrypt module to safely store the passwords when users Signed Up.
@@ -83,17 +84,16 @@ Nginx | Proxy Server
   - Post and share pictures of the daily moments with the user's dog
   - Like, Comment, Message function
 
-- My Page
+- MyPage
 
-  - 유저가 등록한 개스타그램, 산책목록 조회
-  - 유저 데이터, 강아지 데이터 조회 및 수정
-  - 다른 유저 페이지 방문 가능
+  - View dogstagram, walking appointment posts the user posted
+  - View and Update user information, dog information
+  - View other user's MyPage
 
 - Message
 
-  - 받은 쪽지, 산책 신청 알람 기능
-  - 받은 산책 신청 수락/거절
-  - 쪽지 보내기, 답장하기
+  - Accept/Decline the walking appointment request from other users
+  - Send/Answer Messages
 
 <br>
 
