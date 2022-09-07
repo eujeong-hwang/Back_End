@@ -98,6 +98,6 @@ Nginx | Proxy Server
 <br>
 
 # :writing_hand: Documentation
-- [Team Notion](https://togaether.shop/)
+- [Team Notion](https://dawon-ella-kim.notion.site/dawon-ella-kim/1b368fc04ee9406695fc28435dd57097)
 - [Front-end github](https://github.com/O-K-O-K-O-K/Front-end)
 - [Back-end github](https://github.com/O-K-O-K-O-K/Back_End)
